@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**leticiaMartinsSilva/leticiaMartinsSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+</div>
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou Leticia Martins Silva
+<img width="2000" height="2000" alt="octocat-1773674300678" src="https://github.com/user-attachments/assets/9a47270f-d8f7-4dc6-97db-f92949048660" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Estudante / Desenvolvedora iniciante  
+💻 Git | GitHub  
+📍 Brasil
+
+---
+
+✨ Esse é meu Octocat personalizado 😄
