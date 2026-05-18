@@ -29,5 +29,9 @@ Me chamo Leticia Silva, tenho 52 anos e sou natural do Rio Grande do Sul. Sou fo
 ![GitHub User's stars](https://img.shields.io/github/stars/leticiaMartinsSilva?style=social)
    
 
+<img src="https://github.com/user-attachments/assets/9a47270f-d8f7-4dc6-97db-f92949048660"
+     alt="octocat-1773674300678"
+     width="220" />
+
 
 
